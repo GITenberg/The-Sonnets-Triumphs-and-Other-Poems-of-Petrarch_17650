@@ -1,0 +1,42 @@
+_repo: The-Sonnets-Triumphs-and-Other-Poems-of-Petrarch_17650
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Petrarca, Francesco
+    aliases:
+    - Petrarch
+    - Petrarch, Francesco
+    - Petrarca, Franciscus
+    - Petrarcha, Franciscus
+    birthdate: 1304
+    deathdate: 1374
+    gutenberg_agent_id: '7519'
+    url: http://www.gutenberg.org/2009/agents/7519
+    wikipedia: http://en.wikipedia.org/wiki/Petrarch
+  editor:
+    agent_name: Campbell, Thomas
+    birthdate: 1777
+    deathdate: 1844
+    gutenberg_agent_id: '7520'
+    url: http://www.gutenberg.org/2009/agents/7520
+description: 'Chronological summary of Petrarch''s life -- The Life of Petrarch --
+  Petrarch''s sonnets: To Laura in life ; To Laura in death -- Petrarch''s triumphs:
+  The Triumph of love ; The Triumph of chastity ; The Triumph of death ; The Triumph
+  of fame ; The Triumph of time ; The Triumph of eternity.'
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- 14th century -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Petrarca, Francesco, 1304-1374'
+title: The Sonnets, Triumphs, and Other Poems of Petrarch
+url: http://www.gutenberg.org/ebooks/17650
